@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "CarePulse",
+    "slug": "carepulse",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#5FBBD9" },
+    "ios": { "supportsTablet": false },
+    "android": { "package": "com.carepulse.app" }
+  }
+}
