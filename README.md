@@ -1,9 +1,8 @@
 # CarePulse — Home Healthcare App (React Native / Expo)
 
 Home healthcare monitoring app UI, built with clean modular architecture.
-![Uploading Screenshot 2026-07-15 223242.png…]()
 
-
+<img width="407" height="410" alt="Screenshot 2026-07-15 223242" src="https://github.com/user-attachments/assets/eb22e22f-77ae-44bf-a49b-b2758e59f45b" />
 <img width="407" height="410" alt="Screenshot 2026-07-15 223242" src="https://github.com/user-attachments/assets/161a4051-99a9-4624-b16a-1f04da839b7c" />
 <img width="410" height="410" alt="Screenshot 2026-07-15 223338" src="https://github.com/user-attachments/assets/69e8e014-5650-4f04-8d53-7f6374f0ece5" />
 ## Architecture
